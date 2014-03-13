@@ -6,8 +6,11 @@ Before You Submit an Issue
 * Check the other issues, open_ and closed_, to see if this issue already exists.
 * Please identify each issue by page number, chapter, and section/subsection numbers.
 * For tracking and credit purposes, each request for correction needs to be in it's own issue. If an issue contains 2 or more issues, we'll close it with a request for breaking up into more atomic issues.
-* Because we slurp **confirmed** issues into the official errata page, we can and have change titles and descriptions of issues.
 * Apologies, but any and all requests for an ebook edition will be immediately closed as a duplicate of `issue #4`_. Please read the FAQ_ to learn why Two Scoops of Django 1.6 is print only. 
+
+.. note:: Editorial Changes of Issues
+
+     Because we slurp **confirmed** issues into the official errata page, we can and have changed titles and descriptions of issues.
 
 .. _open: https://github.com/twoscoops/two-scoops-of-django-1.6/issues?state=open
 .. _closed: https://github.com/twoscoops/two-scoops-of-django-1.6/issues?state=closed
