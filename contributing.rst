@@ -13,4 +13,4 @@ Before You Submit an Issue
 .. _open: https://github.com/twoscoops/two-scoops-of-django-1.6/issues?state=open
 .. _closed: https://github.com/twoscoops/two-scoops-of-django-1.6/issues?state=closed
 .. _`issue #4`: https://github.com/twoscoops/two-scoops-of-django-1.6/issues/4
-.. _FAQ: twoscoopspress.com/pages/two-scoops-of-django-1-6-faq
+.. _FAQ: http://twoscoopspress.com/pages/two-scoops-of-django-1-6-faq
